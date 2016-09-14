@@ -920,6 +920,7 @@ exports.drilldown = drilldown;
 exports.verifyhtml = verifyhtml;
 exports.gotoview = gotoview;
 exports.sitemap = sitemap;
+exports.deleterecord = deleterecord;
 exports.keyboardaccelerator = keyboardaccelerator;
 exports.setlogger = function(log) {
     logger = log;
