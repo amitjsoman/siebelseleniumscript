@@ -1,0 +1,15 @@
+{
+  "name": "siebelseleniumscript",
+  "version": "1.0.0",
+  "description": "custom library for binding siebel javascript object to selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "siebel",
+    "selenium"
+  ],
+  "author": "Amit Soman",
+  "license": "ISC"
+}
